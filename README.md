@@ -1,2 +1,2 @@
-Instalar -> npm install
+Instalar -> npm install |
 Inicializar -> npm start
